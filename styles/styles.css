@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+#p-eisen{
+    color: black;
+    font-size: 14px;
+    position: absolute;
+    top: 100px;
+}
+
+#h1-NASA{
+    color: black;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+
+.h2 {
+    color: green;
+    font-size: 36px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.h5 {
+    color: black;
+}
+
+
+.shess {
+    text-align: center;
+    position: absolute;
+    top: 0px;
+}
+
+.shess2 {
+    text-align: right;
+    position: absolute;
+    top: 700px;
+}
+
+
+.card-container {
+    position: absolute;
+    top: 900px;
+    display: block;
+    width: 100%;
+}
+
+.carousel-container {
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+.acordion-container {
+    position: absolute;
+    top: 900px;
+}
+
+.carrosel {
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+.header-container {
+    border: 100% solid blue;
+    text-align: center;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 0px;
+}
+
+.header-container2 {
+    border: 100% solid white;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    display: block;
+    width: 100%;
+    margin: 10px;
+}
+
+.btn.btn-primary {
+    background-color: blue;
+    border-color: black;
+}
+
+.card-body {
+    background-color: black;
+    border-radius: 10px;
+    border: solid black 3px;
+}
+
+.card-container {
+    margin: 20px;
+}
+
+#h5-1 {
+    color: white;
+}
+
+.acordion-container{
+    position: absolute;
+    top: 1200px;
+}
+
+#flush-headingTwo{
+    background-color: black;
+    border: solid blue 5px;
+}
+
+#flush-headingThree{
+    background-color: black;
+    border: solid blue 5px;
+}
+
+#flush-headingFour{
+    background-color: black;
+    border: solid blue 5px;
+}
+
+#flush-headingFive{
+    background-color: black;
+    border: solid blue 5px;
+}
+
+#flush-headingSix{
+    background-color: black;
+    border: solid blue 5px;
+}
+
+.accordion-button.collapsed{
+    font-weight: bold;
+}
+
+#text{
+    color: black;
+}
+
+.Fim-2{
+    position: absolute;
+    top: 200px;
+    display: block;
+    width: 100%;
+}
+
+.Fim{
+    text-align: center;
+}
+
+.navigator{
+    margin: 20px;
+    align-items: center;
+}
+
+#Page-3{
+    position: absolute;
+    top: 400px;
+}
+
+#Page-5{
+    position: absolute;
+    top: 500px;
+}
